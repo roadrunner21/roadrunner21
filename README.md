@@ -1,4 +1,4 @@
-# Hi, I'm Marco 👋
+# 👋 Hi, I'm Marco
 
 I write TypeScript for a living and keep things simple: clear interfaces, small diffs, solid tests.  
 Most days I'm building full-stack features (React/Next + Node/Nest + Prisma/Postgres) and wiring in AI/agent
