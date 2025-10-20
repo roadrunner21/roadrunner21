@@ -12,6 +12,7 @@ Open for projects.
 - TypeScript first; Python when useful (FFmpeg/automation)
 - Frontend: React/Next, a bit of Vue
 - Backend: Node/Nest, REST/GraphQL, queues, CI
+- DevOps basics: Docker/containerization, CI/CD (GitHub Actions, GitLab CI), microservices, horizontal scaling)
 - Pragmatic about legacy code and noisy repos
 
 ✉️ marco@heftiweb.ch · [LinkedIn](https://www.linkedin.com/in/themarcohefti/)
